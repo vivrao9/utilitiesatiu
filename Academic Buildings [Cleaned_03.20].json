@@ -219,8 +219,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.516265,
-          39.185248
+          -86.540526,
+          39.215400
         ],
         "type": "Point"
       },
@@ -344,8 +344,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.526954,
-          39.16899
+          -86.527140,
+          39.167785
         ],
         "type": "Point"
       },
@@ -1569,8 +1569,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.524951,
-          39.171018
+          -86.524941,
+          39.171057
         ],
         "type": "Point"
       },
@@ -1789,7 +1789,7 @@
         "ChilledWater": 1619936.56,
         "FullAddresses": "200 S Jordan Ave, Bloomington, Indiana, United States of America",
         "Electric": 4699461.6,
-        "BldgName": "Simon Msc Lbr Rec",
+        "BldgName": "Simon Music Library",
         "StAddress": "200 S Jordan Ave"
       },
       "geometry": {
@@ -1869,8 +1869,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.525809,
-          39.173441
+          -86.525983,
+          39.170283
         ],
         "type": "Point"
       },
@@ -1994,8 +1994,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.505418,
-          39.175838
+          -86.505120,
+          39.171610
         ],
         "type": "Point"
       },
@@ -2119,8 +2119,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.505431,
-          39.17554
+          -86.505130,
+          39.171610
         ],
         "type": "Point"
       },
@@ -2144,8 +2144,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.533316,
-          39.170305
+          -86.527459,
+          39.170871
         ],
         "type": "Point"
       },
