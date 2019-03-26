@@ -169,8 +169,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.512453,
-          39.170255
+          -86.511999,
+          39.169367
         ],
         "type": "Point"
       },
@@ -269,8 +269,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.500935,
-          39.173006
+          -86.500975,
+          39.172969
         ],
         "type": "Point"
       },
@@ -419,8 +419,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.510454,
-          39.174597
+          -86.508499,
+          39.169257
         ],
         "type": "Point"
       },
@@ -608,7 +608,7 @@
         "State": "Indiana",
         "Country": "United States of America",
         "Steam": 0,
-        "NaturalGas": 1933.86,
+        "NaturalGas": 483.4,
         "Water": 14,
         "Sewer": 14,
         "ChilledWater": 0,
@@ -619,8 +619,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.526966,
-          39.17345
+          -86.522757,
+          39.173718
         ],
         "type": "Point"
       },
@@ -744,8 +744,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.528058,
-          39.166226
+          -86.522657,
+          39.165956
         ],
         "type": "Point"
       },
