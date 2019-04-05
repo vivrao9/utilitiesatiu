@@ -1784,12 +1784,12 @@
         "Country": "United States of America",
         "Steam": 19839.19,
         "NaturalGas": 0,
-        "Water": 38808,
+        "Water": 2881,
         "Sewer": 38808,
         "ChilledWater": 1619936.56,
         "FullAddresses": "200 S Jordan Ave, Bloomington, Indiana, United States of America",
         "Electric": 4699461.6,
-        "BldgName": "Simon Music Library",
+        "BldgName": "Simon Music Library and Recital Center",
         "StAddress": "200 S Jordan Ave"
       },
       "geometry": {
@@ -1801,6 +1801,34 @@
       },
       "id": "bebc2a69f0806cf2ba1087791f4012a7"
     },
+    
+        {
+      "type": "Feature",
+      "properties": {
+        "City": "Bloomington",
+        "State": "Indiana",
+        "Country": "United States of America",
+        "Steam": 0,
+        "NaturalGas": 0,
+        "Water": 24492,
+        "Sewer": 0,
+        "ChilledWater": 0,
+        "FullAddresses": "200 S Jordan Ave, Bloomington, Indiana, United States of America",
+        "Electric": 0,
+        "BldgName": "McKinney Fountain",
+        "StAddress": "200 S Jordan Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.516703,
+          39.165338
+        ],
+        "type": "Point"
+      },
+      "id": "bebc2a69f0806cf2ba1087791f4012a7"
+    },
+
+    
     {
       "type": "Feature",
       "properties": {
