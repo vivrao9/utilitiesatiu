@@ -1789,7 +1789,6 @@
         "ChilledWater": 1619936.56,
         "FullAddresses": "200 S Jordan Ave, Bloomington, Indiana, United States of America",
         "Electric": 4699461.6,
-        "BldgName": "Simon Music Library and Recital Center",
         "StAddress": "200 S Jordan Ave"
       },
       "geometry": {
@@ -1810,7 +1809,7 @@
         "Country": "United States of America",
         "Steam": 0,
         "NaturalGas": 0,
-        "Water": 24492,
+        "Water": 12246,
         "Sewer": 0,
         "ChilledWater": 0,
         "FullAddresses": "200 S Jordan Ave, Bloomington, Indiana, United States of America",
