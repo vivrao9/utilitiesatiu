@@ -7,7 +7,7 @@
         "City": "Bloomington",
         "State": "Indiana",
         "Country": "United States of America",
-        "Steam": 4541.13,
+        "Steam": 4541.13,E
         "NaturalGas": 0,
         "Water": 725,
         "Sewer": 725,
@@ -1694,8 +1694,8 @@
       },
       "geometry": {
         "coordinates": [
-          -86.516408,
-          39.164979
+          -86.515355, 
+          39.164604
         ],
         "type": "Point"
       },
